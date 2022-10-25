@@ -1,0 +1,27 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "Proyecto Final Curso Js \"E-Commerce\"",
+  "main": "/js/carrito.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkyozkz/ProjectoFinal-Js.git"
+  },
+  "author": "Nicolas Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkyozkz/ProjectoFinal-Js/issues"
+  },
+  "homepage": "https://github.com/nkyozkz/ProjectoFinal-Js#readme",
+  "keywords": [
+    "\"proyecto\"",
+    "\"final\"",
+    "\"JavaScript\""
+  ],
+  "dependencies": {
+    "luxon": "^3.0.4"
+  }
+}
