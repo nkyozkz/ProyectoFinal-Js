@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "nombre": "Leaf 200x180",
+        "precio": 75,
+        "imagen": "../media/large-leaf.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Bender 300x200",
+        "precio": 85,
+        "imagen": "../media/large-bender.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Fruit 180x180",
+        "precio": 70,
+        "imagen": "../media/large-fruit.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Berserk 175x175",
+        "precio": 80,
+        "imagen": "../media/large-berserk.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Mandalorian 175x130",
+        "precio": 70,
+        "imagen": "../media/large-mando.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Sunflower 180x180",
+        "precio": 70,
+        "imagen": "../media/large-sun.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Trunks 200x180",
+        "precio": 75,
+        "imagen": "../media/large-trunks.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Sunflower Blue 110x110",
+        "precio": 60,
+        "imagen": "../media/medium-B-sun.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Vaoporwave 110x90",
+        "precio": 55,
+        "imagen": "../media/medium-art.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Batman 125x90",
+        "precio": 55,
+        "imagen": "../media/medium-batman.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "This Is Fine 90x135",
+        "precio": 55,
+        "imagen": "../media/medium-dog.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Sunflower Grey 110x110",
+        "precio": 60,
+        "imagen": "../media/medium-D-sun.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Pikachu Gamer 90x90",
+        "precio": 50,
+        "imagen": "../media/medium-pikachu.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "PlayStation Neon 90x90",
+        "precio": 50,
+        "imagen": "../media/medium-ps.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Nike Air 90x60",
+        "precio": 60,
+        "imagen": "../media/medium-shoe.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Spiderman Black 90x60",
+        "precio": 50,
+        "imagen": "../media/medium-spider.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Bunny 25x25",
+        "precio": 20,
+        "imagen": "../media/small-bunny.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Akatsuki 45x45",
+        "precio": 35,
+        "imagen": "../media/small-cloud.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Nike Fire 30x25",
+        "precio": 35,
+        "imagen": "../media/small-f-nike.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Nike Water 30x25",
+        "precio": 35,
+        "imagen": "../media/small-w-nike.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Lighter 45x25",
+        "precio": 40,
+        "imagen": "../media/small-lighter.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Tara 25x25",
+        "precio": 25,
+        "imagen": "../media/small-tara.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Stormtrooper 30x30",
+        "precio": 30,
+        "imagen": "../media/small-st.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Baby Yoda 25x25",
+        "precio": 30,
+        "imagen": "../media/small-yoda.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Shadow 35x35",
+        "precio": 25,
+        "imagen": "../media/small-shadow.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Sick Spongebob 40x40",
+        "precio": 30,
+        "imagen": "../media/small-sponge.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Pikachu Fly 25x25",
+        "precio": 15,
+        "imagen": "../media/small-pikachu.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Ufo 25x25",
+        "precio": 15,
+        "imagen": "../media/small-ufo.jpg"
+    }
+]
