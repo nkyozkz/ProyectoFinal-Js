@@ -68,18 +68,22 @@ function obtenerJSON() {
 
 function filtrarProductos() {
     let seleccion = $("#seleccion").val();
-    if (seleccion == "menor") {
-    productosJSON.sort(function (a, b) {
-        return a.precio - b.precio
-    });
-    } else if (seleccion == "mayor") {
-    productosJSON.sort(function (a, b) {
-        return b.precio - a.precio
-    });
-    } else if (seleccion == "alfabetico") {
-    productosJSON.sort(function (a, b) {
-        return a.nombre.localeCompare(b.nombre);
-    });
+    switch (seleccion) {
+        case "menor":
+            productosJSON.sort(function (a, b) {
+                return a.precio - b.precio
+            });
+            break;
+        case "mayor":
+            productosJSON.sort(function (a, b) {
+                return b.precio - a.precio
+            });
+            break;
+        case "alfabetico":
+            productosJSON.sort(function (a, b) {
+                return a.nombre.localeCompare(b.nombre);
+            });
+            break;
     }
     $(".card-product").remove();
     renderizarProductos();
